@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "API response data",
+  "data": {
+    "problems": [
+      {
+        "id": "html-css-1",
+        "title": "Create Basic HTML Structure",
+        "difficulty": "EASY"
+      }
+    ]
+  }
+}
